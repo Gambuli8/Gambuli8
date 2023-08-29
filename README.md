@@ -8,5 +8,9 @@
 ##### Correo: geronimogambuli8@gmail.com
 ##### Linkedin : https://www.linkedin.com/in/geronimo-gambuli-613a53204
 
+#### Idiomas: 
+##### Español Nativo
+##### Ingles A1
+
 #### Tecnologias que uso: 
-#### | HTML | CSS | javaScript | ReactJs | Redux | NodeJs | ExpressJs | SQL | PostgreSQL | Tailwind | Boopstrap | Vite | Git |
+#### | HTML | CSS | javaScript | ReactJs | Redux | NodeJs | JQuery | AJAX | ExpressJs | SQL | PostgreSQL | Tailwind | Boopstrap | SASS | Vite | Git | Scrum |
