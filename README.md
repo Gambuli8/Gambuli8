@@ -1,7 +1,8 @@
 # Hola soy Geronimo Gambuli 👋
 
 # 💫 Sobre Mi:
-Soy un Desarrollador Full Stack con sólida formación en tecnologías web y metodologías ágiles. Obtenidos a través de programas de formacion como Soy henry y CoderHouse. Experto en HTML, CSS, JavaScript, React y Vite para crear aplicaciones web. Habilidad en gestión de estados con Redux y diseño usando Tailwind, Css Module y SASS. Experiencia en Node.js, Express, PostgreSQL y Sequelize para desarrollo back-end. Destreza en Scrum para colaboración en proyectos. Familiarizado con Git, GitHub, Trello y Slack para gestión y comunicación efectiva en proyectos.
+Soy Gerónimo, una persona con habilidades sólidas en varios lenguajes de programación y un fuerte enfoque en el desarrollo web. He adquirido mis primeras experiencias laborales a través de
+proyectos personales y actualmente me encuentro trabajando en una empresa como desarrollador Front end. Estoy comprometido con el aprendizaje continuo y seguir creciendo profesionalmente.
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
