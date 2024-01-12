@@ -1,8 +1,7 @@
 # Hola soy Geronimo Gambuli 👋
 
 # 💫 Sobre Mi:
-Soy Gerónimo, una persona con habilidades sólidas en varios lenguajes de programación y un fuerte enfoque en el desarrollo web. He adquirido mis primeras experiencias laborales a través de
-proyectos personales y actualmente me encuentro trabajando en una empresa como desarrollador Front end. Estoy comprometido con el aprendizaje continuo y seguir creciendo profesionalmente.
+Soy una persona con habilidades sólidas en varios lenguajes de programación y un fuerte enfoque en el desarrollo web. He adquirido mis primeras experiencias laborales a través de proyectos personales y actualmente me encuentro trabajando en la empresa Tinto Technology como desarrollador Front end. Estoy comprometido con el aprendizaje continuo y seguir creciendo profesionalmente.
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
