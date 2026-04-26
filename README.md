@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-gero--gambuli-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gero-gambuli)
 [![Gmail](https://img.shields.io/badge/-gerogambuli2002-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gerogambuli2002@gmail.com)
-[![OptimizarIA](https://img.shields.io/badge/-optimizar--ia.com-FF5733?style=flat&logo=firefox-browser&logoColor=white)](https://optimizar-ia.com)
 ![Views](https://komarev.com/ghpvc/?username=Gambuli8&color=FF5733&style=flat&label=profile+views)
 
 </div>
