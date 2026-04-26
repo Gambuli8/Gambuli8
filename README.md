@@ -1,23 +1,92 @@
-# Hola soy Geronimo Gambuli 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:FF5733&height=200&section=header&text=Geronimo%20Gambuli&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI-Assisted%20Development&descAlignY=55&descSize=16&descColor=c9d1d9&animation=fadeIn"/>
 
-# 💫 Sobre Mi:
-Soy una persona con habilidades sólidas en varios lenguajes de programación y un fuerte enfoque en el desarrollo web. He adquirido mis primeras experiencias laborales a través de proyectos personales y actualmente me encuentro trabajando en la empresa Tinto Technology como desarrollador Front end. Estoy comprometido con el aprendizaje continuo y seguir creciendo profesionalmente.
+<div align="center">
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&repeat=true&width=600&height=45&lines=const+dev+%3D+buildSolutions();+%2F%2F+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-# 🗣️ Idiomas: 
-##### Español Nativo
-##### Ingles A1
 
-## 🌐 Sociales:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gerogambuli/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/geronimo-gambuli-613a53204) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/GambuliGero8) 
 
-# Skills: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gambuli8&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gambuli8&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gambuli8&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/-gero--gambuli-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gero-gambuli)
+[![Gmail](https://img.shields.io/badge/-gerogambuli2002-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gerogambuli2002@gmail.com)
+[![OptimizarIA](https://img.shields.io/badge/-optimizar--ia.com-FF5733?style=flat&logo=firefox-browser&logoColor=white)](https://optimizar-ia.com)
+![Views](https://komarev.com/ghpvc/?username=Gambuli8&color=FF5733&style=flat&label=profile+views)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Gambuli8&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+</div>
+
+---
+
+### `> Sobre Mi`
+
+Full Stack Developer enfocado en construir soluciones web y automatizaciones con IA. Trabajo con **AI-assisted development** — uso herramientas como **Claude Code** y **Antigravity** para construir sistemas complejos con foco en la arquitectura y la solución del problema.
+
+Actualmente desarrollo bajo el equipo [**OptimizarIA**](https://optimizar-ia.com) y en paralelo manejo el flujo digital del **Centro Odontológico Fuertes** (escaneos intraorales, diseño CAD en Exocad, impresión 3D). Esa mezcla entre código y precisión clínica es lo que define mi perfil.
+
+---
+
+### `> stack`
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=react,js,nodejs,express,astro,html,css,tailwind,bootstrap,vite,postgres,sqlite,supabase,git,github,vercel,netlify&perline=9)](https://skillicons.dev)
+
+</div>
+
+<div align="center">
+
+`n8n` · `Claude API` · `Claude Code` · `Antigravity` · `MCP` · `Prompt Engineering` · `AFIP SDK`
+
+</div>
+
+---
+
+### `> proyectos`
+
+| | Proyecto | Qué hace | Stack | Estado |
+|:-:|:--|:--|:--|:-:|
+| 🔨 | **Larrañaga & Asociados** | Plataforma contable-legal-administrativa. Principio "carga única, impacto automático". Módulos de IVA, tesorería e integración AFIP. *1 de 3 devs en OptimizarIA.* | `React` `Vite` `FastAPI` `Supabase` `Claude API` | 🟡 Dev |
+| 🤖 | **Bot Facturación AFIP** | Bot de Telegram que emite facturas A/B/C ante ARCA via lenguaje natural, calcula IVA automáticamente y guarda PDFs en Drive. Dev individual. | `n8n` `JS` `PostgreSQL` `Telegram` `AFIP SDK` `Drive` | 🟢 Prod |
+| 💬 | **Agente Ciudad** | Dos agentes n8n para inmobiliaria: interno (contratos/expensas) + Instagram (atención al cliente). | `n8n` `JS` `Instagram API` | ✅ Done |
+| 🛒 | [**Lunare**](https://lunareacc.com) | E-commerce con catálogo, carrito y checkout vía WhatsApp. | `React` `Tailwind` `Node.js` | ✅ Done |
+| 🌐 | [**OptimizarIA**](https://optimizar-ia.com) | Sitio web del equipo. | `React` `Tailwind` `Vercel` | ✅ Done |
+
+---
+
+### `> stats`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Gambuli8&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF5733&icon_color=FF5733&text_color=c9d1d9&ring_color=FF5733" />
+&nbsp;&nbsp;
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Gambuli8&theme=github-dark-blue&hide_border=true&background=0d1117&ring=FF5733&fire=FF5733&currStreakLabel=FF5733&sideLabels=c9d1d9&dates=6e7681" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gambuli8&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF5733&text_color=c9d1d9" />
+
+</div>
+
+---
+
+### `> Nuevo`
+
+```yaml
+trabajando_en: "Larrañaga & Asociados — plataforma contable integral"
+aprendiendo: "AI-assisted development, MCP, agentes avanzados"
+equipo: "OptimizarIA"
+otro_mundo: "Flujo digital odontológico — Exocad, escaneo intraoral, impresión 3D"
+cafe: "ristretto, siempre"
+```
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Gambuli8&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=6" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:FF5733&height=100&section=footer"/>
